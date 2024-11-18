@@ -1,4 +1,4 @@
-# Accident-Avoidance-and-Detection-Robot
+# Smart Vehcile System - Accident Avoidance and Detection Robot
 The need for developing accident avoidance and detection robots stems from the desire to reduce human error, enhance safety, provide quick and accurate responses to emergencies, and minimize the economic and social impact of accidents. These technologies are not just about preventing accidents—they are integral to advancing safety standards in various industries, improving efficiency, and creating more resilient systems for both everyday life and emergency scenarios.
 
 The project is design to build an Accident avoidance robotic vehicle using ultrasonic sensors for its movement. Microcontroller (ATmega328) is used to achieve the desired operation. The project proposes robotic vehicle that has an intelligence built in it such that it directs itself whenever an obstacle comes in its path. 
